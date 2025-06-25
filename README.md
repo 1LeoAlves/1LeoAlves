@@ -1,5 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+### Olá, meu nome é Leonardo Alves!
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
 <p align="left"> 
   <p>Olá, meu nome é Leonardo Alves Moreno, tenho 23 anos e a cada dia tento melhorar um pouquinho mais! Tenho conhecimentos em C#, .NET, MAUI, SQL Server e também trabalho com PHP e ReactJS.<br>
   Atualmente, estudo na UniRuy Salvador e estou desenvolvendo projetos próprios e continuo estudando para me aperfeiçoar na área de desenvolvimento de software.</p>
@@ -29,13 +33,13 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 
 <p align="left">
