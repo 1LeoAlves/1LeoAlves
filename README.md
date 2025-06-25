@@ -5,7 +5,8 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p align="left"> 
-  <p>Olá, meu nome é Leonardo Alves Moreno, tenho 23 anos e a cada dia tento melhorar um pouquinho mais! Tenho conhecimentos em C#, .NET, MAUI, SQL Server e também trabalho com PHP e ReactJS.<br>
+  <p>Obrigador por acessar meu Github... Sou um jovem dev em desenvolvimento, tenho 23 anos e a cada dia tento melhorar um pouquinho mais!<br>
+    Tenho conhecimentos em C#, .NET, MAUI, SQL Server e também trabalho com PHP e ReactJS.<br>
   Atualmente, estudo na UniRuy Salvador e estou desenvolvendo projetos próprios e continuo estudando para me aperfeiçoar na área de desenvolvimento de software.</p>
 </p>
 
